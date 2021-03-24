@@ -1,7 +1,8 @@
-<h1 align="center">[![Angular Badge](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=Angular&logoColor=white)]() Angular Introduction</h1>
+<h1 align="center">Angular Introduction <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></h1>
 <br/>
-<p align="center"> This project was created from the studies of angulo.io documentation. This project is the "Getting started with Angular" tutorial. </p>
-
+<h2 align="center"> This project was created from the studies of angulo.io documentation. This project is the "Getting started with Angular" tutorial. </h2>
+<br/>
+<br/>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
 
